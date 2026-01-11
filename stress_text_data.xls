@@ -1,0 +1,16 @@
+text,stress_level
+"I feel relaxed and confident about my studies",Low
+"My workload is manageable and I sleep well",Low
+"I feel happy with my academic performance",Low
+"I am feeling calm and motivated",Low
+"Sometimes I feel pressure but I can manage",Medium
+"I am slightly anxious about upcoming exams",Medium
+"I am worried about my grades",Medium
+"My sleep is getting disturbed due to assignments",Medium
+"I feel stressed and tired all the time",High
+"I am unable to concentrate on my studies",High
+"My anxiety level is very high",High
+"I feel depressed and exhausted",High
+"I am mentally drained and burnt out",High
+"I feel panic before exams",High
+"I cannot sleep because of stress",High
